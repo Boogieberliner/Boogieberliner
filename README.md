@@ -1,4 +1,7 @@
 <img src="soundcircles.jpeg" alt="Markus Burkardt" width="100%">
+
+
+
 ```
 ┌─────────────────────────────────────────────────────────────────────────────────┐
 │                                                                                 │
@@ -20,7 +23,7 @@
 
 ### EXPERIENCE
 
-Previously designed products at **Trainline**, **Sky**, **Glue Home**, **Karhoo**, **HERE Maps** and more — from early-stage startups to enterprise-level systems.
+Designed products at **Trainline**, **Sky**, **Glue Home**, **Karhoo**, **Nokia** **HERE Maps** and more — from early-stage startups to enterprise-level systems.
 
 ###  TOOLS & SKILLS
 
