@@ -32,9 +32,3 @@ AI            Claude · Codex · Always trying new stuff
 Code          Designer at heart with knowledge in HTML · CSS · JavaScript · React
 Design        Figma · After Effects 
 ---
-
-<p align="center">
-  <a href="https://markusburkardt.de">🌐 Portfolio</a> · 
-  <a href="https://linkedin.com/in/markusburkardt">💼 LinkedIn</a>
-</p>
-]]>
